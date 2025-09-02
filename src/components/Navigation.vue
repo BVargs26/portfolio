@@ -4,7 +4,7 @@
         <div class="flex justify-between items-center h-16">
           <a href="#" class="text-2xl font-bold">John Doe</a>
           
-          <div class="hidden md:flex items-center space-x-8">
+          <div class="md:flex items-center space-x-8">
             <a href="#about" class="hover:text-blue-600 transition-colors">About</a>
             <a href="#projects" class="hover:text-blue-600 transition-colors">Projects</a>
             <a href="#contact" class="hover:text-blue-600 transition-colors">Contact</a>
